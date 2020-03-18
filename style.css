@@ -51,21 +51,7 @@ hr{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.testZaNekiElementDaImaSlikuKaoPozadinu{
+.testBackground{
     background:url(header.jpg) no-repeat center center fixed;
     background-size: cover;
     width: 300px;
